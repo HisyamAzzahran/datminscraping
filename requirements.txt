@@ -1,9 +1,11 @@
+beautifulsoup4
+feedparser
+langdetect
+lxml
+newspaper3k
+nltk
+pandas
 python-dotenv
 requests
-beautifulsoup4
-lxml
-feedparser
-pandas
-langdetect
 Sastrawi
 tqdm
